@@ -1,0 +1,11 @@
+assets/*
+components/*
+node_modules/*
+pages/*
+styles/*
+index.html
+index.jsx
+package-lock.json
+package.json
+vite.config.js
+README.md
